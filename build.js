@@ -28,8 +28,8 @@ const renderFileAndFormat = (filePath) => {
     }));
 
     return render(fs.readFileSync(__dirname + '/templates/layout.html', { encoding: 'utf-8' }), {
-        title: 'Important information for a crisis in one spot',
-        description: 'Life is hard, and when bad things happen it can be difficult to know where to move next. This is a collection of resources that might make deciding what to do a little easier.',
+        title: 'Lets educate our selves, and help others learn.',
+        description: 'Learn Support is a collection of resources that are other collections of resources, meant to be a central source for important adulting information.',
         content,
         updatedAt: dayjs(new Date().toLocaleString("en-US", { timeZone: "America/New_York" })).format('LLL')
     })

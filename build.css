@@ -98,3 +98,7 @@ td {
 .highlight pre {
     @apply bg-gray-100 !important;
 }
+
+hr {
+    @apply .my-4;
+}
