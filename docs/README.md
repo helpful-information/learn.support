@@ -10,9 +10,10 @@ Learn, Support. Information should be shared freely, let's help each other learn
  - [pending.download](https://pending.download) - A place where links to useful software live. Antiviruses, productivity apps, tools, etc... 
 
 #### Useless ideas 
+_(coming soon)_
  - [fake.tools](https://fake.tools) - A useless place full of only ideas (until they're not).  
 
-####### _Note_
+##### _Note_
 None of the lists are promoted by, or for, anyone. 
 I do not and will not accept money for putting links in these lists.
 They're not fully comprehensive lists, nor are they only "the best". 
