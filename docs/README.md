@@ -3,10 +3,10 @@ Learn, Support. Information should be shared freely, let's help each other learn
 
 ## First party resources
  - [crisis.tools](https://crisis.tools) - A quick access resource for information you may want in a crisis.
- 
+  - [learning.cheap](https://learning.cheap) - A collection of educational YouTube channels, playlists, websites, and other tools where you can learn things for little (<$1 USD) to no money.
+
  _(coming soon...)_
  - [learning.financial](https://learning.financial) - An open source tool for keeping you informed about your finances.
- - [learning.cheap](https://learning.cheap) - A collection of educational YouTube channels, playlists, websites, and other tools where you can learn things for little (<$1 USD) to no money.
  - [pending.download](https://pending.download) - A place where links to useful software live. Antiviruses, productivity apps, tools, etc... 
 
 #### Useless ideas 
