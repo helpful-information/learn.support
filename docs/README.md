@@ -1,4 +1,4 @@
-# What is Learn, Support?
+# What is Learn Support?
 Learn, Support. Information should be shared freely, let's help each other learn. 
 
 ## First party resources
