@@ -5,14 +5,6 @@ Learn, Support. Information should be shared freely, let's help each other learn
  - [crisis.tools](https://crisis.tools) - A quick access resource for information you may want in a crisis.
   - [learning.cheap](https://learning.cheap) - A collection of educational YouTube channels, playlists, websites, and other tools where you can learn things for little (<$1 USD) to no money.
 
- _(coming soon...)_
- - [learning.financial](https://learning.financial) - An open source tool for keeping you informed about your finances.
- - [pending.download](https://pending.download) - A place where links to useful software live. Antiviruses, productivity apps, tools, etc... 
-
-#### Useless ideas 
-_(coming soon)_
- - [fake.tools](https://fake.tools) - A useless place full of only ideas (until they're not).  
-
 ##### _Note_
 None of the lists are promoted by, or for, anyone. 
 I do not and will not accept money for putting links in these lists.
@@ -21,4 +13,4 @@ To put it in a No BS way, these are just lists with information to help guide yo
 
 
 ----
-&copy; 2020 - This is just put together by a guy named [Austin](https://austinkreegel.com) who just wanted a simple and easily place to link people to important educational things.
+&copy; 2020 - This is just put together by a guy named [Austin](https://austinkregel.com) who just wanted a simple and easily place to link people to important educational things.
